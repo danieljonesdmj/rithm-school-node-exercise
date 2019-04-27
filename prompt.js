@@ -1,5 +1,5 @@
-// Bonus 1 - Use the prompt module to ask a user for some input instead of having to pass in an argument from the command line.
-
+/* Bonus 1 - Use the prompt module to ask a user for some input
+instead of having to pass in an argument from the command line. */
 
 const fs = require('fs');
 const request = require('request');
